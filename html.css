@@ -43,7 +43,7 @@ a {
 .hero-title {
     font-size: 2.8rem;
     margin-bottom: 1.2rem;
-    line-height: 1.2;
+    line-height: 1.2; /*controls the amount of vertical space between lines of text*/
     overflow: hidden; /* Prevent text overflow during typing */
     white-space: nowrap; /* Keep text on one line */
 }
