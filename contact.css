@@ -138,7 +138,7 @@ button {
 button:hover {
     background: #5b21b6;
 }
-// make responsive for mobile view
+
 @media (max-width: 768px) {
     .contact-cards,
     .form-container {
