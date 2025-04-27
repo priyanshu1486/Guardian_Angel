@@ -345,7 +345,7 @@ body {
       font-size: 14px;
   }
 }
-
+// added responsive
 @media (max-width: 480px) {
   h2, h3 {
       font-size: 18px;
