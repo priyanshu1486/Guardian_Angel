@@ -23,7 +23,7 @@ Intuitive design with animations for a smooth and engaging user experience.
 
 
 
-How It Works
+How It Works:
 
 Emergency Location Sharing:
 Users can trigger an emergency alert through the platform.
