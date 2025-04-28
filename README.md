@@ -1,5 +1,6 @@
 Guardian Angel - Women's Safety Project
-Project Overview
+Project Overview:
+
 Guardian Angel is a women’s safety platform designed to enhance personal security and foster a supportive community. The project provides real-time location sharing with emergency contacts via automated email notifications and includes a community page where women can share experiences, discuss safety concerns, or interact with the Guardian Angel chatbot for guidance and support.
 The platform prioritizes user safety, accessibility, and responsiveness, ensuring it is intuitive and effective in critical situations.
 Features
