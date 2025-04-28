@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
+/* Basic body styles: improve readability, set text color, and prevent horizontal scrolling */
 body {
     line-height: 1.6;
     color: #333;
