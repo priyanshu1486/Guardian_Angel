@@ -34,7 +34,7 @@ An automated email is generated and sent to the user’s emergency contacts with
 
 Community Interaction:
 Users can post about their experiences or concerns on the community page.
-The Guardian Angel chatbot responds to queries, offering advice or resources.
+The Guardian Angel chatbot responds to queries,offering advice or resources.
 
 
 Responsive and Animated UI:
