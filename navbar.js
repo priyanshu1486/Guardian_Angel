@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
             return response.text();
         })
+        
         .then(data => {
             console.log("Fetch successful, inserting navbar...");
             document.getElementById("navbar").innerHTML = data;
