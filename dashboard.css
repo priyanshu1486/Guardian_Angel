@@ -12,7 +12,7 @@ body {
   margin-top: 120px; /* For fixed navbar */
   box-sizing: border-box;
 }
-
+/* For sidebar */
 .sidebar {
   width: 250px;
   background-color: #4c1d95;
